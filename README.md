@@ -24,7 +24,7 @@
 
 ## T-Tests on Suspension Coils
 
-![Capture5](Capture5.png)
+ ![Capture7](Capture7.png)
 
 - The p-value incentive for all assembling parcels is 0.06, which is over the 0.05% huge level, which implies that this information isn't genuinely critical and demonstrates solid proof for the invalid theory.
 
@@ -38,7 +38,7 @@
 -The p-value incentive for all assembling parts is 0.61, which is over the 0.05% huge level, which implies that this information isn't measurably huge and demonstrates solid proof for the invalid speculation.
 
 
-![Capture7](Capture7.png)
+![Capture5](Capture5.png)
 
 - The p-value incentive for all assembling parts is 0.04, which is underneath the 0.05% huge level, which implies it is genuinely critical. It shows solid proof against the invalid theory, as there is not exactly a 5% likelihood the invalid is right (and the outcomes are arbitrary).
 
