@@ -28,11 +28,11 @@
 
 - The p-value incentive for all assembling parcels is 0.06, which is over the 0.05% huge level, which implies that this information isn't genuinely critical and demonstrates solid proof for the invalid theory.
 
-
+![Capture4](Capture4.png)
 
 - The p-value incentive for all assembling parts is 1, which is over the 0.05% critical level. which implies that this information isn't genuinely critical and shows solid proof for the invalid speculation.
 
-![Capture4](Capture4.png)
+
 
 
 -The p-value incentive for all assembling parts is 0.61, which is over the 0.05% huge level, which implies that this information isn't measurably huge and demonstrates solid proof for the invalid speculation.
