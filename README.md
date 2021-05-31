@@ -6,7 +6,7 @@
 
 - The straight model predicts the mpg of MechaCar models viably on the grounds that the r-squared worth is 0.7149, which implies about 71% of all mpg expectations will be dictated by this model.
 
-(Capture.png)
+![Capture](Capture.png)
 
 
 
